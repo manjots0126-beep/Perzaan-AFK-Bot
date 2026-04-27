@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "example.aternos.me",
-    "port": 92591,
-    "version": "1.21.1"
+    "ip": "Ghostraijin.aternos.me",
+    "port": 26327,
+    "version": "26.1.2"
   },
   "position": {
     "enabled": true,
